@@ -1,4 +1,4 @@
-# Cloud_Medallion
+# Spark-Hive-Benchmark
 
 ## Overview
 
@@ -20,7 +20,7 @@ This project benchmarks a Spark-Hive data pipeline deployed across a distributed
 
 ```bash
 git clone <repo_url>
-cd Cloud_Medallion
+cd Spark-Hive-Benchmark
 ```
 
 2. Set up virtual environment:
